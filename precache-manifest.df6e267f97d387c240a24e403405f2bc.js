@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4b1fcf9ed7992056b09bb3fe9e74e35",
+    "revision": "bb9333e00661829881d389dcb2fb48bf",
     "url": "/vghks-pathol-app/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vghks-pathol-app/static/css/2.530e3919.chunk.css"
   },
   {
-    "revision": "a4c3a3abd5b7405f589c",
+    "revision": "c05fd12ef59030d31e90",
     "url": "/vghks-pathol-app/static/css/6.af8eed9c.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vghks-pathol-app/static/css/7.d15a8ebc.chunk.css"
   },
   {
-    "revision": "558300aed171d9b39a3c",
+    "revision": "51d2bbf8f443968a5c47",
     "url": "/vghks-pathol-app/static/css/main.92093651.chunk.css"
   },
   {
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vghks-pathol-app/static/js/3.d1e973af.chunk.js"
   },
   {
-    "revision": "a4c3a3abd5b7405f589c",
-    "url": "/vghks-pathol-app/static/js/6.e7d6cd10.chunk.js"
+    "revision": "c05fd12ef59030d31e90",
+    "url": "/vghks-pathol-app/static/js/6.27882bc1.chunk.js"
   },
   {
     "revision": "a93a8d8fbeedfffefa022ee0401a2434",
-    "url": "/vghks-pathol-app/static/js/6.e7d6cd10.chunk.js.LICENSE.txt"
+    "url": "/vghks-pathol-app/static/js/6.27882bc1.chunk.js.LICENSE.txt"
   },
   {
     "revision": "749916f60e41a83439b7",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vghks-pathol-app/static/js/9.218bd6d9.chunk.js"
   },
   {
-    "revision": "558300aed171d9b39a3c",
-    "url": "/vghks-pathol-app/static/js/main.9cbb753c.chunk.js"
+    "revision": "51d2bbf8f443968a5c47",
+    "url": "/vghks-pathol-app/static/js/main.23b8455b.chunk.js"
   },
   {
     "revision": "5f70d6c6cb42edf650bc",
