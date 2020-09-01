@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vghks-pathol-app/precache-manifest.577b6a5cd20d7bf7ca2ae40fd0c6d16e.js"
+  "/vghks-pathol-app/precache-manifest.3d70dc8f0a1a65ecfaa6c7677f462c0d.js"
 );
 
 self.addEventListener('message', (event) => {
