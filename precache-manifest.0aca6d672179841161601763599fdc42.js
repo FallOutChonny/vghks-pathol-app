@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b7cf8ca203b7f07ede7cb4b18a5cfd3",
+    "revision": "75cdc23d198bb00c586d1b8c9a6a3afd",
     "url": "/vghks-pathol-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vghks-pathol-app/static/css/2.ebc1bde2.chunk.css"
   },
   {
-    "revision": "a4898db5db8ad168f83b",
+    "revision": "c89808203c01e9a70ab4",
     "url": "/vghks-pathol-app/static/css/main.9ed95258.chunk.css"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vghks-pathol-app/static/js/9.84dd52cb.chunk.js"
   },
   {
-    "revision": "a4898db5db8ad168f83b",
-    "url": "/vghks-pathol-app/static/js/main.2fc91f04.chunk.js"
+    "revision": "c89808203c01e9a70ab4",
+    "url": "/vghks-pathol-app/static/js/main.ef816f51.chunk.js"
   },
   {
     "revision": "8bdcdba6d1dc37d705be",

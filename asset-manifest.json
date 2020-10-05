@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vghks-pathol-app/static/css/main.9ed95258.chunk.css",
-    "main.js": "/vghks-pathol-app/static/js/main.2fc91f04.chunk.js",
-    "main.js.map": "/vghks-pathol-app/static/js/main.2fc91f04.chunk.js.map",
+    "main.js": "/vghks-pathol-app/static/js/main.ef816f51.chunk.js",
+    "main.js.map": "/vghks-pathol-app/static/js/main.ef816f51.chunk.js.map",
     "runtime-main.js": "/vghks-pathol-app/static/js/runtime-main.e44fc2cb.js",
     "runtime-main.js.map": "/vghks-pathol-app/static/js/runtime-main.e44fc2cb.js.map",
     "static/css/2.ebc1bde2.chunk.css": "/vghks-pathol-app/static/css/2.ebc1bde2.chunk.css",
@@ -33,7 +33,7 @@
     "static/js/14.23e5f233.chunk.js": "/vghks-pathol-app/static/js/14.23e5f233.chunk.js",
     "static/js/14.23e5f233.chunk.js.map": "/vghks-pathol-app/static/js/14.23e5f233.chunk.js.map",
     "index.html": "/vghks-pathol-app/index.html",
-    "precache-manifest.19249ae808becbe3bfc4341dda197505.js": "/vghks-pathol-app/precache-manifest.19249ae808becbe3bfc4341dda197505.js",
+    "precache-manifest.0aca6d672179841161601763599fdc42.js": "/vghks-pathol-app/precache-manifest.0aca6d672179841161601763599fdc42.js",
     "service-worker.js": "/vghks-pathol-app/service-worker.js",
     "static/css/2.ebc1bde2.chunk.css.map": "/vghks-pathol-app/static/css/2.ebc1bde2.chunk.css.map",
     "static/css/main.9ed95258.chunk.css.map": "/vghks-pathol-app/static/css/main.9ed95258.chunk.css.map",
@@ -133,6 +133,6 @@
     "static/css/2.ebc1bde2.chunk.css",
     "static/js/2.4c2fa35d.chunk.js",
     "static/css/main.9ed95258.chunk.css",
-    "static/js/main.2fc91f04.chunk.js"
+    "static/js/main.ef816f51.chunk.js"
   ]
 }
