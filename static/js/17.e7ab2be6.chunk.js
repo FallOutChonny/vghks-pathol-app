@@ -1,0 +1,2 @@
+(this["webpackJsonpvghks-pathol-app"]=this["webpackJsonpvghks-pathol-app"]||[]).push([[17],{2708:function(t,n,p){"use strict";p.r(n),p.d(n,"default",(function(){return s}));var a=p(0),e=p.n(a);function s(){return e.a.createElement("div",null)}}}]);
+//# sourceMappingURL=17.e7ab2be6.chunk.js.map
