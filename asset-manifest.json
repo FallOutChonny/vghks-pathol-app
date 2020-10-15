@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.3e6a4735.chunk.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/0.3e6a4735.chunk.js",
     "static/js/0.3e6a4735.chunk.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/0.3e6a4735.chunk.js.map",
-    "main.css": "https://falloutchonny.github.io/vghks-pathol-app/static/css/main.66e09f5d.chunk.css",
+    "main.css": "https://falloutchonny.github.io/vghks-pathol-app/static/css/main.62e89cd1.chunk.css",
     "main.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.c681eab0.chunk.js",
     "main.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.c681eab0.chunk.js.map",
     "runtime-main.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/runtime-main.9827a7a3.js",
@@ -43,10 +43,10 @@
     "static/js/19.09229e9b.chunk.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/19.09229e9b.chunk.js",
     "static/js/19.09229e9b.chunk.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/19.09229e9b.chunk.js.map",
     "index.html": "https://falloutchonny.github.io/vghks-pathol-app/index.html",
-    "precache-manifest.84bde557aa3b9d1d37aaf9d24823b73f.js": "https://falloutchonny.github.io/vghks-pathol-app/precache-manifest.84bde557aa3b9d1d37aaf9d24823b73f.js",
+    "precache-manifest.d2e35c3bb0601ef3c1aa83cb6c44f0a1.js": "https://falloutchonny.github.io/vghks-pathol-app/precache-manifest.d2e35c3bb0601ef3c1aa83cb6c44f0a1.js",
     "service-worker.js": "https://falloutchonny.github.io/vghks-pathol-app/service-worker.js",
     "static/css/3.ed08b868.chunk.css.map": "https://falloutchonny.github.io/vghks-pathol-app/static/css/3.ed08b868.chunk.css.map",
-    "static/css/main.66e09f5d.chunk.css.map": "https://falloutchonny.github.io/vghks-pathol-app/static/css/main.66e09f5d.chunk.css.map",
+    "static/css/main.62e89cd1.chunk.css.map": "https://falloutchonny.github.io/vghks-pathol-app/static/css/main.62e89cd1.chunk.css.map",
     "static/js/19.09229e9b.chunk.js.LICENSE.txt": "https://falloutchonny.github.io/vghks-pathol-app/static/js/19.09229e9b.chunk.js.LICENSE.txt",
     "static/js/3.5961f42a.chunk.js.LICENSE.txt": "https://falloutchonny.github.io/vghks-pathol-app/static/js/3.5961f42a.chunk.js.LICENSE.txt",
     "static/js/4.a5aae644.chunk.js.LICENSE.txt": "https://falloutchonny.github.io/vghks-pathol-app/static/js/4.a5aae644.chunk.js.LICENSE.txt",
@@ -142,7 +142,7 @@
     "static/js/runtime-main.9827a7a3.js",
     "static/css/3.ed08b868.chunk.css",
     "static/js/3.5961f42a.chunk.js",
-    "static/css/main.66e09f5d.chunk.css",
+    "static/css/main.62e89cd1.chunk.css",
     "static/js/main.c681eab0.chunk.js"
   ]
 }
