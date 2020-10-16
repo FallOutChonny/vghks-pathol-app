@@ -1,10 +1,8 @@
 'use strict'
 
-const e = React.createElement
-
-const Input = window.antd.Input
-
-const Button = window.antd.Button
+const React = window.React
+const ReactDOM = window.ReactDOM
+const { Input, Button } = window.antd
 
 class InputText extends React.Component {
   constructor(props) {
@@ -21,7 +19,7 @@ class InputText extends React.Component {
   }
 
   handleAdd = () => {
-    const editor = parent.tinymce.activeEditor
+    const editor = window.parent.tinymce.activeEditor
 
     const inputtextStyles = `
       border: none;

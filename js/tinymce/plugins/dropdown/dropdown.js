@@ -1,10 +1,8 @@
 'use strict'
 
-const e = React.createElement
-
-const { Input, Select, Button, Divider } = window.antd
-
-console.log(window)
+const React = window.React
+const ReactDOM = window.ReactDOM
+const { Button } = window.antd
 
 let index = 0
 
@@ -42,7 +40,7 @@ class Dropdown extends React.Component {
   }
 
   handleAdd = () => {
-    const editor = parent.tinymce.activeEditor
+    const editor = window.parent.tinymce.activeEditor
     const { items, width, placeholder } = this.state
 
     const selectStyles = `
@@ -96,15 +94,6 @@ class Dropdown extends React.Component {
         </a>
         <div style={{ marginTop: 24, marginBottom: 24 }}>
           {this.renderField('預覽：')}
-          {/* <Select
-            getPopupContainer={triggerNode => triggerNode.parentNode}
-            bordered={false}
-            style={{ width, borderBottom: '1px solid #38a8a9' }}
-            placeholder={placeholder}>
-            {items.map(item => (
-              <Select.Option key={item}>{item}</Select.Option>
-            ))}
-          </Select> */}
           <select
             style={{
               width,
