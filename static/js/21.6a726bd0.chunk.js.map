@@ -1,0 +1,1 @@
+{"version":3,"sources":["containers/report-version-comparison/report-version-comparison.tsx"],"names":["ReportVersionComparison"],"mappings":"8HAAA,mEAEe,SAASA,IACtB,OAAO","file":"static/js/21.6a726bd0.chunk.js","sourcesContent":["import React from 'react'\n\nexport default function ReportVersionComparison() {\n  return <div></div>\n}\n"],"sourceRoot":""}
