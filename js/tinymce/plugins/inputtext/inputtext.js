@@ -22,6 +22,7 @@ class InputText extends React.Component {
     const editor = window.parent.tinymce.activeEditor
 
     const inputtextStyles = `
+      height: 24px;
       border: none;
       border-bottom: 1px solid #38a8a9;
     `

@@ -49,7 +49,8 @@ class Dropdown extends React.Component {
       margin-right: 4px;
       padding-left: 8px;
       padding-right: 8px;
-      border: 1px solid #4a4a4a;
+      border: none;
+      border-bottom: 1px solid #4a4a4a;
     `
 
     editor.insertContent(`
