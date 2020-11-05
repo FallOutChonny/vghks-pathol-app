@@ -24,7 +24,7 @@ class InputText extends React.Component {
     const inputtextStyles = `
       height: 24px;
       border: none;
-      border-bottom: 1px solid #38a8a9;
+      border-bottom: 1px solid #4a4a4a;
     `
 
     editor.insertContent(`
