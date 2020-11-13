@@ -1,5 +1,3 @@
-'use strict'
-
 const React = window.React
 const ReactDOM = window.ReactDOM
 const { Input, Button } = window.antd
@@ -32,8 +30,7 @@ class InputText extends React.Component {
         class="ant-input antd-input-sm ant-input-borderless"
         placeholder="${this.state.placeholder}"
         style="${inputtextStyles}; width: ${this.state.width}px;"
-        type="text"
-        value="">
+        type="text">
     `)
 
     editor.undoManager.add()

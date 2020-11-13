@@ -1,5 +1,3 @@
-'use strict'
-
 const React = window.React
 const ReactDOM = window.ReactDOM
 const { Button } = window.antd
@@ -58,7 +56,7 @@ class Dropdown extends React.Component {
         placeholder="${placeholder}"
         style="width: ${width}; ${selectStyles}"
       >
-        <option value="" disabled selected>${placeholder}</option>
+        <option value="" disabled>${placeholder}</option>
         ${items.map(x => `<option>${x}</option>`)}
       </select>
     `)
