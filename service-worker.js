@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://falloutchonny.github.io/vghks-pathol-app/precache-manifest.c182d4acd25b5a0b83529816d3bf2e3d.js"
+  "https://falloutchonny.github.io/vghks-pathol-app/precache-manifest.67ed79c881563786de85303457a496c5.js"
 );
 
 self.addEventListener('message', (event) => {
