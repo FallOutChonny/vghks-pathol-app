@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fa0b7fe94f7865b1a027e429ec94e5f",
+    "revision": "e8d7e502f5087cacb7d430baec61a25c",
     "url": "https://falloutchonny.github.io/vghks-pathol-app/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://falloutchonny.github.io/vghks-pathol-app/static/css/5.4fd00e74.chunk.css"
   },
   {
-    "revision": "9fbf947d9058e24ee515",
+    "revision": "fb16f7d60b3e893cd47b",
     "url": "https://falloutchonny.github.io/vghks-pathol-app/static/css/main.3f125eda.chunk.css"
   },
   {
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/9.ad783294.chunk.js"
   },
   {
-    "revision": "9fbf947d9058e24ee515",
-    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.2109ac97.chunk.js"
+    "revision": "fb16f7d60b3e893cd47b",
+    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.1b96184d.chunk.js"
   },
   {
     "revision": "7cdf9ebe20d165245749",
