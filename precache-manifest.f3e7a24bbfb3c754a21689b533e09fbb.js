@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98b8e3705fcb99be0903762a48e14e32",
+    "revision": "904f0a3d69057c5a87d9f5643803773a",
     "url": "https://falloutchonny.github.io/vghks-pathol-app/index.html"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/10.24d8340c.chunk.js"
   },
   {
-    "revision": "78f3d651bbc0cbaf7bc6",
-    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/11.888c6f18.chunk.js"
+    "revision": "7d27fb25e7fb52e66259",
+    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/11.0ef1e9fa.chunk.js"
   },
   {
-    "revision": "af57827d08ae7d2cd948",
-    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/12.fa7b313b.chunk.js"
+    "revision": "a37a08da5498850ebac5",
+    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/12.4a85a635.chunk.js"
   },
   {
-    "revision": "3110a69661ead0b1fe6c",
-    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/13.02114c79.chunk.js"
+    "revision": "19ad029626388ddc934c",
+    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/13.229a566c.chunk.js"
   },
   {
     "revision": "1b05a4c7df2e486041c5",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/17.87b2a5c2.chunk.js"
   },
   {
-    "revision": "9e909cc6bdc29b54aeae",
-    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/18.a8026965.chunk.js"
+    "revision": "210c5d67fc02c751c6f0",
+    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/18.087bdec0.chunk.js"
   },
   {
     "revision": "0c753b972b28947e3bcf",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.302990f4.chunk.js"
   },
   {
-    "revision": "49b28091a9985f5edc7d",
-    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/runtime-main.54a422cd.js"
+    "revision": "b7b9e3c7801cb9ed1ca1",
+    "url": "https://falloutchonny.github.io/vghks-pathol-app/static/js/runtime-main.66444868.js"
   },
   {
     "revision": "fd5728f2cf777b06b966d05c0c823dc9",
