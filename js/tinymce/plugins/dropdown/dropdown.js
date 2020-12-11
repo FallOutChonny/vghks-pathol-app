@@ -31,6 +31,11 @@ class Dropdown extends React.Component {
 
   handleItemAdd = () => {
     const { items, itemName } = this.state
+
+    if (!itemName || itemName === '') {
+      return
+    }
+
     this.setState({
       items: [...items, itemName || `新項目 ${index++}`],
       itemName: '',
@@ -89,6 +94,7 @@ class Dropdown extends React.Component {
         <a
           style={{
             cursor: 'pointer',
+            marginLeft: 3,
           }}
           onClick={this.handleItemAdd}>
           新增
