@@ -8,8 +8,8 @@
     "static/js/2.22574e87.chunk.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/2.22574e87.chunk.js",
     "static/js/2.22574e87.chunk.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/2.22574e87.chunk.js.map",
     "main.css": "https://falloutchonny.github.io/vghks-pathol-app/static/css/main.3f125eda.chunk.css",
-    "main.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.a9002f57.chunk.js",
-    "main.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.a9002f57.chunk.js.map",
+    "main.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.1dd73512.chunk.js",
+    "main.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/main.1dd73512.chunk.js.map",
     "runtime-main.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/runtime-main.16db0761.js",
     "runtime-main.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/runtime-main.16db0761.js.map",
     "static/css/5.ff65468b.chunk.css": "https://falloutchonny.github.io/vghks-pathol-app/static/css/5.ff65468b.chunk.css",
@@ -48,7 +48,7 @@
     "static/js/21.2fb519cb.chunk.js": "https://falloutchonny.github.io/vghks-pathol-app/static/js/21.2fb519cb.chunk.js",
     "static/js/21.2fb519cb.chunk.js.map": "https://falloutchonny.github.io/vghks-pathol-app/static/js/21.2fb519cb.chunk.js.map",
     "index.html": "https://falloutchonny.github.io/vghks-pathol-app/index.html",
-    "precache-manifest.7ef715fcae67cc6e01e1eec969e196c7.js": "https://falloutchonny.github.io/vghks-pathol-app/precache-manifest.7ef715fcae67cc6e01e1eec969e196c7.js",
+    "precache-manifest.98e413723859a6604f39e923fa32cd34.js": "https://falloutchonny.github.io/vghks-pathol-app/precache-manifest.98e413723859a6604f39e923fa32cd34.js",
     "service-worker.js": "https://falloutchonny.github.io/vghks-pathol-app/service-worker.js",
     "static/css/0.a59de82f.chunk.css.map": "https://falloutchonny.github.io/vghks-pathol-app/static/css/0.a59de82f.chunk.css.map",
     "static/css/5.ff65468b.chunk.css.map": "https://falloutchonny.github.io/vghks-pathol-app/static/css/5.ff65468b.chunk.css.map",
@@ -63,6 +63,6 @@
     "static/css/5.ff65468b.chunk.css",
     "static/js/5.f20cd7ef.chunk.js",
     "static/css/main.3f125eda.chunk.css",
-    "static/js/main.a9002f57.chunk.js"
+    "static/js/main.1dd73512.chunk.js"
   ]
 }
