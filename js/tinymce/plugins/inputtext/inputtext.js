@@ -27,7 +27,7 @@ class InputText extends React.Component {
 
     editor.insertContent(`
       <input
-        class="ant-input antd-input-sm ant-input-borderless"
+        class="ant-input antd-input-sm ant-input-borderless template-cloze__control
         placeholder="${this.state.placeholder}"
         style="${inputtextStyles}; width: ${this.state.width}px;"
         type="text">

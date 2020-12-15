@@ -59,8 +59,8 @@ class Dropdown extends React.Component {
     // prettier-ignore
     editor.insertContent(`
       <select
+        class="template-cloze__control"
         placeholder="${placeholder}"
-        class="template-cloze__select"
         style="width: ${width}; ${selectStyles}"
       >
         <option value="" ${placeholder ? '' : 'hidden'} disabled selected>${placeholder}</option>
