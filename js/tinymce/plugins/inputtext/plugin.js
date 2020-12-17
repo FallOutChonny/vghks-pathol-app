@@ -1,11 +1,16 @@
 tinymce.PluginManager.add('inputtext', function (editor) {
+  const prefix =
+    window.location.host === 'falloutchonny.github.io'
+      ? '/vghks-pathol-app'
+      : ''
+
   editor.addButton('inputtext', {
     icon: 'bold',
     tooltip: '新增輸入欄位',
     onclick: () => {
       editor.windowManager.open(
         {
-          url: `/vghks-pathol-app/js/tinymce/plugins/inputtext/index.html`,
+          url: `${prefix}/js/tinymce/plugins/inputtext/index.html`,
           width: 600,
           height: 150,
           title: '輸入欄位設定',
