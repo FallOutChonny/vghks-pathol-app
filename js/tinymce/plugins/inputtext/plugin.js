@@ -1,13 +1,12 @@
-console.log(process.env.NODE_ENV)
-
 tinymce.PluginManager.add('inputtext', function (editor) {
+  const basename = editor.getParam('env')
   editor.addButton('inputtext', {
     icon: 'bold',
     tooltip: '新增輸入欄位',
     onclick: () => {
       editor.windowManager.open(
         {
-          url: `/vghks-pathol-app/js/tinymce/plugins/inputtext/index.html`,
+          url: `${basename}/js/tinymce/plugins/inputtext/index.html`,
           width: 600,
           height: 150,
           title: '輸入欄位設定',
