@@ -1,7 +1,7 @@
 tinymce.PluginManager.add('dropdown', function (editor) {
   const basename = editor.getParam('env')
   editor.addButton('dropdown', {
-    icon: 'bold',
+    icon: 'fas fa-list-ol',
     tooltip: '新增選單',
     onclick: () => {
       editor.windowManager.open(

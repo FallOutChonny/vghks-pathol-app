@@ -1,7 +1,7 @@
 tinymce.PluginManager.add('inputtext', function (editor) {
   const basename = editor.getParam('env')
   editor.addButton('inputtext', {
-    icon: 'bold',
+    icon: 'fas fa-pencil-alt',
     tooltip: '新增輸入欄位',
     onclick: () => {
       editor.windowManager.open(

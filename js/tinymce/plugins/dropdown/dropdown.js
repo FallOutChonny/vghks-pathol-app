@@ -61,7 +61,7 @@ class Dropdown extends React.Component {
       <select
         class="template-cloze__control"
         placeholder="${placeholder}"
-        style="width: ${width}; ${selectStyles}"
+        style="width: ${width}px; ${selectStyles}"
       >
         <option value="" ${placeholder ? '' : 'hidden'} disabled selected>${placeholder}</option>
         ${items.map(x => `<option>${x}</option>`)}
@@ -70,6 +70,13 @@ class Dropdown extends React.Component {
 
     editor.undoManager.add()
     editor.windowManager.close()
+  }
+
+  handleDelete = idx => () => {
+    this.setState(prev => ({
+      ...prev,
+      items: prev.items.filter((_, index) => index !== idx),
+    }))
   }
 
   renderField(title) {
@@ -107,7 +114,9 @@ class Dropdown extends React.Component {
               height: 32,
               paddingLeft: 8,
               paddingRight: 8,
-              border: '1px solid #4a4a4a',
+              border: 'none',
+              borderBottom: '1px solid #4a4a4a',
+              marginBottom: 16,
             }}
             placeholder={placeholder}>
             <option value="" disabled selected>
@@ -117,6 +126,16 @@ class Dropdown extends React.Component {
               <option key={item}>{item}</option>
             ))}
           </select>
+          {items.map((item, idx) => (
+            <div key={item}>
+              <span
+                style={{ marginRight: 50, color: 'red', cursor: 'pointer' }}
+                onClick={this.handleDelete(idx)}>
+                x
+              </span>
+              {item}
+            </div>
+          ))}
         </div>
         <Button size="small" type="primary" onClick={this.handleAdd}>
           加入
